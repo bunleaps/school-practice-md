@@ -64,7 +64,7 @@ Here is an answer key for the rate law exercise:
 
 $$rate = k[A][B]^2$$
 
-2. The rate constant is 0.025 M^{-1} s^{-1}.
+2. The rate constant is $0.025 M^{-1} s^{-1}$.
 
 3. The order of the reaction with respect to A is 1.
 
